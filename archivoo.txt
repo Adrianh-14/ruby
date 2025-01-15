@@ -1,0 +1,5 @@
+Adrian esto es un nombre válido
+De Jesus esto es un apellido válido
+Adr@gmail.com esto es un correo válido
+8296908175 esto es un número válido
+20 esto es una edad válida
